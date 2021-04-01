@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,SAAU,CACV,QAAS,CACT,qBACF,CAEA,MACE,oBAAa,CAAb,YAAa,CACb,6BAAsB,CAAtB,qBAAsB,CACtB,gBACF","file":"main.a8c9c28d.chunk.css","sourcesContent":["body {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}\n\n.Main {\n  display: flex;\n  flex-direction: column;\n  min-height: 100vh;\n}\n"]}
